@@ -1,2 +1,29 @@
 cout<<"My name is:<<"Reyyan";
 cout<<"My roll number is:<<"053";
+Subtraction
+int a;
+int b;
+ Multiplication
+Division
+int div;
+div=a/b;
+cout<<div;
+
+
+int multiply;
+multiply=a*b;
+cout<<multiply;
+ Multiplication
+
+int diff;
+diff=a-b;
+cout<<diff;
+ Subtraction
+
+int a; 
+int b;
+int sum;
+sum=a+b;
+cout<<sum
+
+ Addition
