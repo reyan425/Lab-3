@@ -1,5 +1,6 @@
 cout<<"My name is:<<"Reyyan";
 cout<<"My roll number is:<<"053";
+Subtraction
 int a;
 int b;
  Multiplication
@@ -18,3 +19,11 @@ int diff;
 diff=a-b;
 cout<<diff;
  Subtraction
+
+int a; 
+int b;
+int sum;
+sum=a+b;
+cout<<sum
+
+ Addition
